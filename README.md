@@ -4,9 +4,9 @@
 
 This prototype classifies bananas, limes, and oranges from a live camera feed on a Raspberry Pi 3B+. It explores how on-device recognition could reduce the need to look up produce manually at self-checkout. The camera script displays class predictions and scores over the video feed.
 
-Built as a three-person project for **CEN/BMI 598 Embedded Machine Learning** at Arizona State University.
+<!-- Built as a three-person project for **CEN/BMI 598 Embedded Machine Learning** at Arizona State University.
 
-> **Demo to add:** Post a 15–30 second clip from the original project recordings. Show a fruit entering the frame and the predicted label appearing on screen. If the recording shows a misclassification, include it where it helps illustrate the prototype's limits. Replace this note with the video link once the clip is available.
+> **Demo to add:** Post a 15–30 second clip from the original project recordings. Show a fruit entering the frame and the predicted label appearing on screen. If the recording shows a misclassification, include it where it helps illustrate the prototype's limits. Replace this note with the video link once the clip is available. -->
 
 ## How it works
 
