@@ -16,7 +16,9 @@ Built as a three-person project for **CEN/BMI 598 Embedded Machine Learning** at
 | Deploy | The [TensorFlow Lite model](models/fruit_classifier.tflite) runs on a Raspberry Pi 3B+ with Camera Module v1. |
 | Display | The [Python inference script](src/pi_inference.py) captures frames with OpenCV and overlays the predictions and scores. |
 
-[Training pipeline diagram](assets/training_pipeline.png) · [Deployment pipeline diagram](assets/deployment_pipeline.png) · [Project manuscript](docs/manuscript.pdf)
+![Training pipeline for the fruit recognition model](assets/training_pipeline.png)
+
+[Deployment pipeline diagram](assets/deployment_pipeline.png) · [Project manuscript](docs/manuscript.pdf)
 
 ## Run inference on the Raspberry Pi
 
